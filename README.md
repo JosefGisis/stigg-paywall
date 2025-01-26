@@ -1,0 +1,1 @@
+Stigg paywall demo using Stigg's React SDK.
